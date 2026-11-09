@@ -3,7 +3,7 @@
   var GA4 = "G-3L1E9K3MMR";
   var ADS = "AW-11130199341";
   // Rótulo da conversão "Clique no WhatsApp" criada no Google Ads (preencher após criar a conversão).
-  var ADS_ROTULO_WHATSAPP = "";
+  var ADS_ROTULO_WHATSAPP = "382iCOK7upsZEK26pbsp";
 
   var producao = /(^|\.)arnslauro\.com\.br$|\.github\.io$/.test(location.hostname);
   var CHAVE = "consentimento-cookies";
